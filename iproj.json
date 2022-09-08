@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "description": "SAMPLE PROJECT",
+  "description": "SAMPLE PROJECT ",
   "objlib": "&lib1",
   "curlib": "&lib1",
   "includePath": ["QPROTOSRC"],
